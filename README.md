@@ -1,3 +1,3 @@
 # Vishish Behera
 
-##B.Tech Mechanical Engineering
+## B.Tech Mechanical Engineering
